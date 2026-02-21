@@ -1,8 +1,0 @@
-# IntelliJ IDEA
-.idea/
-*.iml
-
-# Derlenmiş Kodlar
-out/
-target/
-*.class
